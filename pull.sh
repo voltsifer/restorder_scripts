@@ -1,2 +1,2 @@
 #!/bin/bash
-echo alpha1
+echo alpha12
