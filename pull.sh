@@ -1,2 +1,2 @@
 #!/bin/bash
-echo test2334589
+echo alpha1
