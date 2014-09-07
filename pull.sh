@@ -1,2 +1,2 @@
 #!/bin/bash
-echo test1 dev
+echo test1 dev1
